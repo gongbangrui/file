@@ -1,0 +1,13 @@
+>_<
+
+
+已提供
+Dev Cpp 5.4.2 5.9.2
+Free Pascal 2.0.4 2.4.0 2.6.4
+gVim && Vim
+Visual Studio Code
+以上软件均已设置环境变量
+（Dev Cpp 为5.9.2里mingw的目录，Free Pascal 为2.0.4）
+C盘保护
+D盘不保护
+
